@@ -1,0 +1,36 @@
+{
+	"rules": [
+		{
+			"domain_suffix": [
+				"hls.one",
+				"akamaized.net",
+				"dbokutv.com",
+				"ckhao.top",
+				"hxx2023.cc",
+				"hxx2027.cc",
+				"fengbao8.com",
+				"fengbao9.com",
+				"fengbao10.com",
+				"pandapp.vip",
+				"cmecloud.cn",
+				"lookhao.top",
+				"ryplay4.com",
+				"ryiplay18.com",
+				"bsgslb.com",
+				"picovr.com",
+				"xfyvideochandi2.online",
+				"baofeng10.com",
+				"cdnhwc1.com",
+				"850615.xyz",
+				"jiexicn.top",
+				"sskan03.top",
+				"shenhua7.vip",
+				"jugaoqing.com",
+				"juyongjiu.com",
+				"zhuiju666.com",
+				"kuailezhuiju2.com"
+			]
+		}
+	],
+	"version": 2
+}
