@@ -20,6 +20,9 @@
         "av01.media",
         "av01.tv",
         "av01.xyz"
+      ],
+      "domain": [
+        "ss.xdmm.workers.dev"
       ]
     }
   ],
